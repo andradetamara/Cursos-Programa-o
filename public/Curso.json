@@ -1,0 +1,37 @@
+[
+  {
+    "nome": "VueJS",
+    "id": 1,
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"
+  },
+  {
+    "nome": "Angular",
+    "id": 2,
+    "imagem": "https://www.logolynx.com/images/logolynx/01/017f96243fed45ea9b37ef8ab5f96740.png"
+  },
+  {
+    "nome": "React",
+    "id": 3,
+    "imagem": "https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png"
+  },
+  {
+    "nome": "HTML5",
+    "id": 4,
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"
+  },
+  {
+    "nome": "CSS3",
+    "id": 5,
+    "imagem": "https://miro.medium.com/max/365/1*f9t1eeISadHhjK5QYejJBg.png"
+  },
+  {
+    "nome": "JavaScript",
+    "id": 6,
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"
+  },
+  {
+    "nome": "TypeScript",
+    "id": 7,
+    "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
+  }
+]
